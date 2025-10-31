@@ -106,7 +106,7 @@ export default function HomePage() {
                       <p
                         className={`${manrope.className} text-lg leading-8 opacity-80 font-medium`}
                       >
-                        At The Aplusacademy, our Mock Exam Platform offers a
+                        At Aplusacademy, our Mock Exam Platform offers a
                         realistic IELTS test experience with full support for
                         Listening, Reading, Writing, and Speaking sections.
                         Designed to mirror the official exam format, it features
