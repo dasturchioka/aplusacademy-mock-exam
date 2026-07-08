@@ -19,6 +19,7 @@ export default function AuthLayout({
           <Image
             width={90}
             height={90}
+            className="rounded-full"
             src="/images/og-image.png"
             alt="The Aplus Academy, Aplus Academy, uzbekistan, urgench, khorezm"
           />
