@@ -71,17 +71,17 @@ export default function HomePage() {
                       </a>
                       <a
                         className="social-media flex items-center gap-1 transition-all hover:text-primary"
-                        href="https://t.me/ieltsboyko"
+                        href="https://t.me/aplusacademyielts"
                         target="_blank"
                       >
                         <FaTelegram className="size-5" /> Telegram
                       </a>
                       <a
                         className="social-media flex items-center gap-1 transition-all hover:text-primary"
-                        href="tel:+998907379901"
+                        href="tel:+998914214488"
                         target="_blank"
                       >
-                        <FaPhone className="size-4" /> +998 90 737 99 01
+                        <FaPhone className="size-4" /> +998 91 421 44 88
                       </a>
                     </div>
                   </FadeContent>
